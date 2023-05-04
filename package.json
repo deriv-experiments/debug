@@ -13,7 +13,7 @@
   "keywords": [],
   "author": "",
   "dependencies": {
-    "@deriv-experiments/react": "../react"
+    "@deriv-experiments/react": "^0.0.4"
   },
   "license": "ISC",
   "devDependencies": {
